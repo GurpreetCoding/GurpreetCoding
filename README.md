@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi, I'm Gurpreet — a developer who enjoys turning ideas into code. I'm always learning, building, and occasionally sharing what I discover along the way.
+
 <!--
 **GurpreetCoding/GurpreetCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
